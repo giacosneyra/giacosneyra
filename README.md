@@ -1,4 +1,4 @@
-## Hola! Soy Gianfranco Siguas, programador Front-End y creador de contenido de tecnología!
+## Hola! Soy Gianfranco Siguas, Front-End developer y creador de contenido de tecnología, programación y videojuegos!
 <div align="center">
   <a href="https://github.com/giacosneyra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
