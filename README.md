@@ -1,9 +1,4 @@
-## Hola! Yo soy Gianfranco Siguas
-- 👋 Trabajo como Front-End Developer
-- 👀 Estoy interesado en Three.JS, WEB3D
-- 🌱 Estoy aprendiendo React.JS
-- 📫 Contáctame al email gianfrancodev@gmail.com
-
+## Hola! Soy Gianfranco Siguas, programador Front-End y creador de contenido de tecnología!
 <div align="center">
   <a href="https://github.com/giacosneyra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
