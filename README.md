@@ -1,6 +1,6 @@
 ## Hola! Soy Gianfranco Siguas, Front-End developer!
 <div align="center">
-  <img align="right" alt="Gian-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D16AQG_rY0JNz0q3Q/profile-displaybackgroundimage-shrink_200_800/0/1642143229078?e=1648080000&v=beta&t=_N_hyyyQ9ZZLg5fW0MkCWSKCgLedo1PMyloobYd5hPQ">
+  <img align="center" alt="Gian-pic" src="https://media-exp1.licdn.com/dms/image/C4D16AQG_rY0JNz0q3Q/profile-displaybackgroundimage-shrink_200_800/0/1642143229078?e=1648080000&v=beta&t=_N_hyyyQ9ZZLg5fW0MkCWSKCgLedo1PMyloobYd5hPQ">
 </div>
 <div align="center">
   <a href="https://github.com/giacosneyra">
