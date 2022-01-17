@@ -5,8 +5,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/giacosneyra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacosneyra&layout=compact&langs_count=7&theme=tokyonight&title_color=FFFFFF&bg_color=DEG,252731,000000&border_color=695bcc&text_color=c9c2ff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacosneyra&layout=compact&langs_count=7&theme=tokyonight&title_color=FFFFFF&bg_color=DEG,252731,000000&border_color=695bcc&text_color=c9c2ff"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
