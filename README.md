@@ -16,7 +16,9 @@
   <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/820574712399659008/932417754684870717/download20220100183040.png">
 </div>
+  
 <br>
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCgtfmDi95U1KT3EXzMA5OXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/giacosneyra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
