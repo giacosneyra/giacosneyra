@@ -2,6 +2,7 @@
 <div align="center">
   <img align="center" alt="Gian-Frontend" src="https://media-exp1.licdn.com/dms/image/C4D16AQG_rY0JNz0q3Q/profile-displaybackgroundimage-shrink_200_800/0/1642143229078?e=1648080000&v=beta&t=_N_hyyyQ9ZZLg5fW0MkCWSKCgLedo1PMyloobYd5hPQ">
 </div>
+<br>
 <div align="center">
   <a href="https://github.com/giacosneyra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
