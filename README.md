@@ -16,7 +16,7 @@
   <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/820574712399659008/932417754684870717/download20220100183040.png">
-</div>
+</div> 
   
 <br>
   
