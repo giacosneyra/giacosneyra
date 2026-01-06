@@ -1,6 +1,6 @@
 ## Hola! Soy Gianfranco Siguas, Front-End developer!
 <div align="center">
-  <img align="center" alt="Gian-Frontend" width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQG_rY0JNz0q3Q/profile-displaybackgroundimage-shrink_200_800/0/1642143229078?e=1648080000&v=beta&t=_N_hyyyQ9ZZLg5fW0MkCWSKCgLedo1PMyloobYd5hPQ">
+  <img width="2560" height="1271" alt="Gianfracno-s-Portfolio-01-06-2026_02_18_PM" src="https://github.com/user-attachments/assets/00c54d09-f8df-4384-8cac-ebde9eac6e31" />
 </div>
 <br>
 <div align="center">
