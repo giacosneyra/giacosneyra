@@ -1,4 +1,4 @@
-## Hola! Soy Gianfranco Siguas, Front-End developer!
+## Hola! Soy Gianfranco Siguas, Front-End developer and WordPress Developer!
 <div align="center">
   <img width="2560" height="1271" alt="Gianfracno-s-Portfolio-01-06-2026_02_18_PM" src="https://github.com/user-attachments/assets/00c54d09-f8df-4384-8cac-ebde9eac6e31" />
 </div>
