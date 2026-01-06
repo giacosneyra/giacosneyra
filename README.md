@@ -3,10 +3,6 @@
   <img width="2560" height="1271" alt="Gianfracno-s-Portfolio-01-06-2026_02_18_PM" src="https://github.com/user-attachments/assets/00c54d09-f8df-4384-8cac-ebde9eac6e31" />
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/giacosneyra">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=giacosneyra&show_icons=true&icon_color=695bcc&theme=tokyonight&bg_color=DEG,252731,000000&title_color=FFFFFF&text_color=c9c2ff&border_color=695bcc&include_all_commits=true&count_private=true"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
