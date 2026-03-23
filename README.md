@@ -60,39 +60,6 @@ I specialize in turning complex design briefs into lightning-fast digital experi
 
 ---
 
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| Sep 2022 – Feb 2025 | Software Engineer | TripAdvisor Business |
-| Aug 2022 | Webmaster | WHYNOT? Agency |
-| Sep 2022 | WordPress Developer | WATSON Agency |
-| Apr 2021 – Apr 2022 | Front-End Developer | ELIM5 Agency |
-| Sep 2020 – Jun 2022 | WordPress Developer | ENELBLANCO Agency |
-
----
-
-## 🎓 Education & Certifications
-
-**Education**
-- 🎓 **Bachelor's in Software Engineering** — UPC University *(Aug 2022 – Present)*
-- 🎓 **Technical Degree in Software Development** — SENATI *(2017 – 2020)*
-
-**Certifications**
-- 📜 HubSpot Marketing Software — *HubSpot, 2024*
-- 📜 Introduction to AWS Organizations — *Amazon Web Services, 2023*
-- 📜 Frontend Developer — *Platzi, 2022*
-- 📜 Operating Systems: Becoming an Advanced User — *Google, 2022*
-
----
-
-## 🌐 Languages
-
-- 🇺🇸 **English** — Professional
-- 🇵🇪 **Spanish** — Native
-
----
-
 ## 📊 Core Competencies
 
 ```
